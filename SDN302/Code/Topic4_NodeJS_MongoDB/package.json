@@ -1,0 +1,15 @@
+{
+  "name": "topic4_nodejs_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.9.0"
+  }
+}

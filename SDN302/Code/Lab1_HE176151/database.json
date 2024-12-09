@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "Hoàng",
+        "lname": "Nguyễn",
+        "age": 20,
+        "sex": true
+    },
+    {
+        "id": 2,
+        "fname": "Nam",
+        "lname": "Hoàng Hải",
+        "age": 21,
+        "sex": true
+    },
+    {
+        "id": 3,
+        "fname": "Tuấn",
+        "lname": "Nguyễn Văn",
+        "age": 19,
+        "sex": true
+    },
+    {
+        "id": 4,
+        "fname": "Hà",
+        "lname": "Nguyễn",
+        "age": 19,
+        "sex": false
+    },
+    {
+        "id": 5,
+        "fname": "Hồng",
+        "lname": "Phạm Thị",
+        "age": 18,
+        "sex": false
+    },
+    {
+        "id": 6,
+        "fname": "Dũng",
+        "lname": "Phạm Tiến",
+        "age": 18,
+        "sex": true
+    }
+]
